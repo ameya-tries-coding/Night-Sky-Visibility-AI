@@ -244,13 +244,6 @@ Contributions are welcome! Please open an issue first to discuss your proposed c
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
   <sub>Built with ❤️, Python, and a love for the night sky 🌠</sub>
 </div>
